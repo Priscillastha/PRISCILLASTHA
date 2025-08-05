@@ -1,4 +1,3 @@
-<img src="images/1E3561BC-F9C0-4A1C-BEF0-10BD50F419F9.P_Shre_S25-1.jpeg" width="150" />
 
 # Hi, I'm Priscilla 👋
 
