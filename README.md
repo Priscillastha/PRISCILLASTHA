@@ -11,11 +11,11 @@
 I'm graduating in August 2025 with a Master’s in Business Analytics. I’m passionate about turning data into actionable insights and solving real-world problems using analytics, machine learning, and visualization.
 
 ## 💼 Skills
-- Data Analysis & Visualization: Python (Pandas, Matplotlib, Seaborn), Power BI, Tableau  
+- Data Analysis & Visualization: Python, Power BI, Tableau  
 - Machine Learning: Scikit-learn, TensorFlow, Keras  
-- Data Wrangling & Databases: SQL, Excel, ETL  
+- Data Wrangling & Databases: SQL, Excel 
 - Programming Languages: Python, R, SQL  
-- Tools & Platforms: Jupyter Notebooks, Git, Docker  
+- Tools & Platforms: Jupyter Notebooks, Git
 
 ## 🚀 Projects
 
