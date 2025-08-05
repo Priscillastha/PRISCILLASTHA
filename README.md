@@ -1,5 +1,11 @@
+<h2 style="color: #ffb6c1; font-family: 'Courier New', Courier, monospace;">
+</h2>
 
-# Hi, I'm Priscilla 👋
+<h1 align="center">Hi 👋, I'm Priscilla Shrestha</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/priscillastha/">LinkedIn</a> •
+  <a href="https://github.com/Priscillastha">GitHub</a>
+</p>
 
 ## 🎓 About Me
 I'm graduating in August 2025 with a Master’s in Business Analytics. I’m passionate about turning data into actionable insights and solving real-world problems using analytics, machine learning, and visualization.
