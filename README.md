@@ -8,7 +8,7 @@
 </p>
 
 ## 🎓 About Me
-I'm graduating in August 2025 with a Master’s in Business Analytics. I’m passionate about turning data into actionable insights and solving real-world problems using analytics, machine learning, and visualization.
+Graduated in August 2025 with a Master’s in Business Analytics. I’m passionate about turning data into actionable insights and solving real-world problems using analytics, machine learning, and visualization.
 
 ## 💼 Skills
 - Data Analysis & Visualization: Python, Power BI, Tableau  
